@@ -7,3 +7,4 @@ How to use:
   2. Run this command in cmd: pip install requests fake-useragent
   3. run the python file by double clicking on it
 ```
+# update 28/12/2566 14:51
